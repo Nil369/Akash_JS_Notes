@@ -1,3 +1,6 @@
+![image](https://github.com/Nil369/Akash_JS_Notes/assets/148447931/f2d7799b-bb45-49f0-b621-024e4df18a10)
+
+
 # This is my JS notes
 ## Author : AKASH HALDER
 
