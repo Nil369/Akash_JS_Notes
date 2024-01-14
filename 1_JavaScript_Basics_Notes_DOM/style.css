@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+#bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid black;
+    margin-top: 3vw;
+}
+
+button{
+    font-size: 1.5vw;
+    padding: 1.1vw 2.1vw;
+    color: #fff;
+    border: none;
+    background-color: rgb(162, 74, 245);
+    border-radius: 50px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-left: 8vw;
+    margin-top: 3vw;
+}
+h3{
+    margin-top: 2vw;
+}
+@media (max-width:600px) {
+    button{
+        font-size: 8vw;
+        padding: 5vw 7vw;
+        color: #fff;
+        border: none;
+        background-color: rgb(162, 74, 245);
+        border-radius: 50px;
+        font-weight: 700;
+        cursor: pointer;
+        margin-left: 27vw;
+        margin-top: 3vw;
+    } 
+}
