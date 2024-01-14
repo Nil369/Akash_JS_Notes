@@ -1,6 +1,6 @@
 {
   "name": "akash_js_notes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a very useful JS notes library. You can refer this to revise your Javascript Concepts",
   "main": "index.js",
   "scripts": {
