@@ -1,0 +1,22 @@
+{
+  "name": "akash_js_notes",
+  "version": "1.0.0",
+  "description": "This is a very useful JS notes library. You can refer this to revise your Javascript Concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "js_notes",
+    "akash",
+    "akash_js_notes",
+    "nil"
+  ],
+  "author": "Akash Halder",
+  "license": "ISC",
+  "homepage": "https://github.com/Nil369/Akash_JS_Notes",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}

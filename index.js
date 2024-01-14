@@ -1,0 +1,1 @@
+console.log("This my JS_notes library...Refer the above folders for proper notes 😀")
