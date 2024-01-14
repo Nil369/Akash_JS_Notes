@@ -1,5 +1,10 @@
 ![image](https://github.com/Nil369/Akash_JS_Notes/assets/148447931/f2d7799b-bb45-49f0-b621-024e4df18a10)
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/akash_js_notes">
+  <img alt="Release Version" src="https://img.shields.io/badge/Release-v1.0.0-blue"></a>
+  
+</p>
 
 # This is my JS notes
 ## Author : AKASH HALDER
